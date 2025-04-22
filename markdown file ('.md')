@@ -1,0 +1,71 @@
+Virtual Reality (V.R) Development Using Unity
+Unity is a game engine that allow game developers and his team to create a stunning game which looks exactly like real world
+Introduction to Virtual Reality (V.R)
+Virtual Reality (V.R) can be defined as technology that teleports you to an immersive 3D environment. 
+Virtual Reality is a simulated experience that uses tracking and 3D near-eye displays to provide an immersive feel of a virtual world.
+Why Unity is a Preferred Tool for Virtual Reality?
+•	Unity is more preferrable than other game engine because of its compatibility and support with many devices like Console Devices, PCs and Mobile Phones.
+•	It also has many features for V.R development
+Types of Virtual Reality (V.R)
+•	Immersive V.R System
+•	Non-Immersive/Desktop V.R System
+•	Semi-Immersive V.R System
+•	Collaborative V.R System
+•	Web-based V.R System e.g second life and Minecraft
+•	WebV.R System- It uses JavaScript API. It experimenting 3600 videos
+Best Devices for Virtual Reality Experience
+•	V.R Headsets Samsung Gear V.R
+•	Meta Quest2
+•	Meta Quest Pro
+•	Play Station V.R
+•	Value Index
+•	HTC Vive Pro2
+•	HP Reverb G2
+Virtual Reality Libraries and Kits
+•	Virtual Reality SDKs
+•	Google V.R SDKs
+•	Virtual Reality Toolkit (VRKT)
+•	Window Mixed Reality Toolkit (MRKT)
+•	XR Interaction Toolkit
+•	Oculus Interaction SDK
+How to Launch Virtual Reality in Unity?
+•	Firstly, Meta Quest for your Headset
+•	Download Unity engine for your device
+•	After the download and installation of Unity click on “Add Project”
+•	Click on “VR Core”
+•	Click on “download” if this is your first time creating VR Project
+•	Rename your Project Folder
+•	Check Connect to Unity Cloud box
+•	Click “Create Project”
+Application of Virtual Reality
+Virtual Reality can be used and applied to the following industries
+•	Game industry. In fact, it is primarily used for gaming
+•	Health Care
+•	Entertainment Industry
+•	Automobile Industry
+•	Architecture
+•	Education
+•	Military
+•	Tourism
+•	Retail etc
+Importance/Advantages of Virtual Reality
+•	It is beneficial for training purposes and for experiencing things that would otherwise be too dangerous or too risky
+•	It increased Productivity in training, work tasks and communication.
+•	It enables users to try more challenging tasks without risking their lives.
+•	It saves money and resources.
+Disadvantages of Virtual Reality
+•	Health risk- Virtual Reality Headsets can cause health issues such as eyestrain, headache and nausea and motion sickness.
+•	Social Isolation
+•	Addiction
+Personal Insights
+Virtual Reality will soon be adopted in all facets of our lives simply because, of its importance and cost reduction if it was to be done in a real life.
+Summaries and Conclusion
+•	Virtual Reality simply means designing game for human interaction for specific reasons in order to create experiences not otherwise possible
+•	Virtual Reality can also be applicable to other facet of life like health to handle risky task, education for better training, military, Tourism, architecture etc.
+•	Types of Virtual Reality include; Immersive, non-immersive, semi-immersive, Web-based etc
+•	Some of the best gadgets for V.R is also discussed like Meta Quests, HTC Vive Pro2, Play Station V.R
+•	Lastly, it is beneficial for training purpose, conduct virtual surgeries remotely in health care and for experiencing things that would be too dangerous or risky 
+•	It should be noted that Unity Engine is recommended for better Virtual Reality (V.R) experience.
+•	Try it with the above step by step explanation towards the creation of virtual Reality games in unity, you won’t hesitate to give me thumb up and 5 stars.
+
+
